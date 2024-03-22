@@ -12,3 +12,12 @@ body {
 	padding: 120px;
 	width: 300px;
 }
+
+.dev-drinks {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.dev-drinks li {
+	margin-bottom: 10px;
+}
